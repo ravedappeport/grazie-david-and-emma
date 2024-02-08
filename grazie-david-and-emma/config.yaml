@@ -1,5 +1,5 @@
 baseURL: http://dave-and-emma-wedding.s3-website-us-east-1.amazonaws.com/ # todo: change site url.
-title: David and Emma Rappeport # todo: change site name.
+title: Il Matrimonio di David ed Emma Rappeport # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
