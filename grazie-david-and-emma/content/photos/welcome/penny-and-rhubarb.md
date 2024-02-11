@@ -1,6 +1,7 @@
 ---
 weight: 80
 images:
+- /images/penny-and-rhubarb-williamsburg.jpg
 - /images/baby-rhu.jpg
 - /images/baby-penny.jpeg
 - /images/picnic-pups.jpeg

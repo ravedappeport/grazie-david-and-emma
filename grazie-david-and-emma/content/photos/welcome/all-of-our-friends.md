@@ -5,8 +5,9 @@ images:
 - /images/bariscan.jpeg
 - /images/jeff-and-kelly.jpg
 - /images/claire-and-max.jpg
+- /images/rebecca-and-richard.jpeg
 - /images/sarah-dan-skiing.jpeg
-- /images/brit-and-jason.jpg
+- /images/brit-jason-christmas.jpeg
 - /images/britneyandjasonwedding.jpeg
 - /images/chalet-logan-chamonix.jpeg
 
