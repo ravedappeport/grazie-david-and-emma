@@ -1,43 +1,56 @@
 /* Custom CSS styles */
 
 .hero-body.has-text-centered p {
-    color: var(--intro-text-color);
-    font-size: 1.4em;
+    color: var(--dark-text-color);
+    font-size: 1.8em;
+    font-weight: bold;
 }
 
 .welcome-end p {
-    color: var(--intro-text-color);
-    font-size: 1.4em;
+    color: var(--dark-text-color);
+    font-size: 1.6em;
+    font-weight: bold;
 }
 
 .button.is-white.is-outlined {
     background-color: transparent;
-    border-color: var(--intro-text-color);
-    color: var(--intro-text-color);
+    border-color: var(--dark-text-color);
+    color: var(--dark-text-color);
+    font-size: 2em;
+    font-weight: bold;
 }
 
 .hero.is-fullheight.welcome .welcome-title {
-    color: var(--intro-text-color);
+    color: var(--dark-text-color);
+    font-style: italic;
+    font-weight: bold;
 }
 
 .navbar-middle .welcome-title {
-    color: var(--dark-text-color-1);
+    color: var(--dark-text-color);
+    font-size: 2.5em;
+    font-style: italic;
+    font-weight: bold;
 }
 
-.navbar-middle .menu {
-    color: var(--dark-text-color-1);
+.menu {
+    color: var(--dark-text-color);
     text-align: center;
+    font-family: 'Roboto Serif Italic Bold';
+    position: relative; 
+    left: 50%;
+    transform: translateX(-50%);    
 }
 
 html {
     background-color: var(--main-bg-color);
     font-size: 16px;
     -moz-osx-font-smoothing: grayscale;
-    -webkit-font-smoothing: antialiased;
+    /* -webkit-font-smoothing: antialiased; */
     min-width: 300px;
     overflow-x: hidden;
     overflow-y: scroll;
-    text-rendering: optimizeLegibility;
+    /* text-rendering: optimizeLegibility; */
     -webkit-text-size-adjust: 100%;
     -moz-text-size-adjust: 100%;
     text-size-adjust: 100%
@@ -49,9 +62,13 @@ html {
 }
 
 .slide-info h2 {
-    color: var(--intro-text-color)
+    color: var(--dark-text-color)
 }
 
 .slide-info p {
-    color: var(--intro-text-color)
+    color: var(--dark-text-color)
+}
+
+img.logo {
+    height: 200%;
 }

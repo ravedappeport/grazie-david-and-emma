@@ -1,6 +1,6 @@
 ---
 images:
-- /images/cetinale-sky-photo.jpeg
+- /images/cetinale-background.jpeg
 title: Wedding Week
 url: wedding-week
 hideTitle: true

@@ -2,13 +2,14 @@
 
 .hero-body.has-text-centered p {
     color: var(--dark-text-color);
-    font-size: 1.8em;
-    font-weight: bold;
+    font-size: 1.5em;
+    font-weight: 900;
+    font-style: italic;
 }
 
 .welcome-end p {
     color: var(--dark-text-color);
-    font-size: 1.6em;
+    font-size: 1em;
     font-weight: bold;
 }
 
@@ -16,21 +17,22 @@
     background-color: transparent;
     border-color: var(--dark-text-color);
     color: var(--dark-text-color);
-    font-size: 2em;
+    font-size: 1em;
     font-weight: bold;
+    font-style: italic;
 }
 
 .hero.is-fullheight.welcome .welcome-title {
     color: var(--dark-text-color);
     font-style: italic;
-    font-weight: bold;
+    font-weight: 900;
 }
 
 .navbar-middle .welcome-title {
     color: var(--dark-text-color);
-    font-size: 2.5em;
+    font-size: 2em;
     font-style: italic;
-    font-weight: bold;
+    font-weight: 900;
 }
 
 .menu {
@@ -58,7 +60,7 @@ html {
 
 .menu {
     max-width: 600px;
-    font-size: 1.2em;
+    font-size: 1em;
 }
 
 .slide-info h2 {
@@ -70,5 +72,5 @@ html {
 }
 
 img.logo {
-    height: 200%;
+    height: 100%;
 }
