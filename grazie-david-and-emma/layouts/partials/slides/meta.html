@@ -3,7 +3,7 @@
         {{ $tags := .ctx.Params.tags }}
         {{ if $tags }}
             <div class="center column slide-meta-el">
-                <div class="slide-tags">
+                <!-- <div class="slide-tags">
                     {{ $specials := slice "work" "archive" }}
                     {{ with .ctx.Site.Params.SpecialPages }}
                         {{ $specials = . }}
@@ -13,7 +13,7 @@
                             <a class="grey" href={{ printf "tags/%s" $tag | absURL }}>#{{ $tag }}</a>
                         {{ end }}
                     {{ end }}
-                </div>
+                </div> -->
             </div>
         {{ end }}
 

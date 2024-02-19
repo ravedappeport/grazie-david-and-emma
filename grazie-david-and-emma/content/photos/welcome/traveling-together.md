@@ -13,6 +13,12 @@ tags:
 hideExif: true
 ---
 
-## Traveling With Emma
+## Traveling 
 
-....
+Photo 1 - Dave and Emma in Ankor Wat, Cambodia. 
+<br><br>
+Photo 2 - Together on a hike in Zion National Park during the middle of Covid.
+<br><br>
+Photo 3 - On a chairlift at Snowbird, Utah. Emma, always willing to try new things, took up skiing after first meeting me because she knew it was one of my great passions in life. 
+<br><br>
+Photo 4 - Cool couple shot! Our tour guide in Ankor Wat insisted on this photo.
