@@ -11,6 +11,7 @@ params:
   copyright: All rights reserved. # todo: set your copyright type.
   author: David and Emma # todo: set your full name.
   dontShowSource: false # please, do not do this :)
+  hideDate: true
   portfolio:
     columns:
       desktop:
