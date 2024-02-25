@@ -4,13 +4,16 @@ defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
 
+enableEmoji: true # emojis on
+
 params:
   image: /images/banner.png
   logo: family-crest.jpg # todo: add your custom logo to static/
   subtitle: Welcome to our wedding website. We are so excited to celebrate with you. # todo: change default subtitle for your website.
   copyright: All rights reserved. # todo: set your copyright type.
-  author: David and Emma # todo: set your full name.
-  dontShowSource: false # please, do not do this :)
+  # author: David and Emma # todo: set your full name.
+  author: Made by Dave with a little help from Emma
+  dontShowSource: true # please, do not do this :)
   hideDate: true
   portfolio:
     columns:

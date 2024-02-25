@@ -27,13 +27,21 @@ Pass through the small village on your right. See the green gates of VILLA CETIN
 # Itinerary
 
 #### Monday, April 22 
-Welcome Dinner
+5 PM villa check in. 
+<br>
+Evening welcome dinner.
 
 #### Tuesday, April 23
-Siena Walking Tour & Games Night
+Morning Siena walking tour.
+<br>
+Afternoon games at the villa.
+<br>
+Evening pizza night.
 
 #### Wednesday, April 24
-Volterra Truffle Hunt & Pizza Night
+10:30 AM Volterra walking tour.
+<br> 
+3 PM Truffle hunt and dinner. 
 
 #### Thursday, April 25
 Wedding Ceremony & Celebrations

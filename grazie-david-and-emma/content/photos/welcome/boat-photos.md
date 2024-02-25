@@ -15,10 +15,10 @@ hideExif: true
 
 ## Aspiring boat people
 
-Photo 1 - Sailing off the coast of Camden, Maine the day of Dave's 30th birthday.
+Photo 1 - Sailing off the coast of Camden, Maine the day of my 30th birthday :boat: .
 <br><br>
-Photo 2 - This photo was taken just after Emma and Dave completed their open water scuba diving certification in the Florida Keys.
+Photo 2 - This photo was taken just after Emma and I completed our open water scuba diving :diving_mask: certification in the Florida Keys.
 <br><br>
 Photo 3 - Sunset photo taken from the back of the Lake Sunapee Dinner Cruise boat. 
 <br><br>
-Photo 4 - An ocean pontoon ride courtesy of our friends Sarah Noe and Dan Biscobing the day after their wedding in Hawaii. 
+Photo 4 - An ocean pontoon ride (IYKYK)  courtesy of our friends Sarah Noe and Dan Biscobing the day after their wedding in Hawaii. 

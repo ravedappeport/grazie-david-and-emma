@@ -22,4 +22,4 @@ Photo 2 - In front of the courthouse minutes after getting married.
 <br><br>
 Photo 3 - Holding hands while taking care of the wedding paperwork.
 <br><br>
-Photo 4 - Dave holding up the wedding contract as proof of a legal marriage contract. He couldn't be more thrilled. 
+Photo 4 - Me holding up the wedding contract as proof of a legal marriage contract. I couldn't be more thrilled. :smiling_face_with_three_hearts:

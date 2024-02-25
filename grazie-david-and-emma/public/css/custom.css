@@ -33,6 +33,7 @@
     font-size: 2em;
     font-style: italic;
     font-weight: 900;
+    text-align: center;
 }
 
 .menu {
@@ -96,4 +97,10 @@ img.logo {
 
 .content h1, h2, p {
     color: var(--dark-text-color)
+}
+
+.venmo-photo img {
+    margin-bottom: 10px;
+    width: 60%;
+    max-height: 92vh;
 }

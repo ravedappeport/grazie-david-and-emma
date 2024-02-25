@@ -15,8 +15,8 @@ hideExif: true
 
 ## Rappeports
 
-Photo 1 - Photo taken at a wedding celebration hosted by Brenda and Scott for David and Emma at Oakledge in Sunapee, New Hampshire. David's brother Emma was also there. 
+Photo 1 - Photo taken at a wedding celebration hosted by Brenda and Scott for Emma and I at Oakledge in Sunapee, New Hampshire. My younger brother Eric was also there. 
 <br><br>
-Photo 2 - David and Eric after hiking Long's Peak together in Estes Park, Colorado.
+Photo 2 - Eric and I after hiking Long's Peak together in Estes Park, Colorado. :mountain:
 <br><br>
-Photo 3 - David, Eric, Scott, and Emma at the annual Mt. Sunapee duck drop in October 2023. 
+Photo 3 - Eric, Scott, Emma, and I at the annual Mt. Sunapee duck drop in October 2023. 
