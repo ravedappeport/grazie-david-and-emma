@@ -15,7 +15,7 @@ hideExif: true
 
 ## Flemings
 
-Photo 1 - :christmas_tree: Christmas with the Flemings. Grandpa Jim, Granny Rudina, Pauline Fleming, Emma's older brother David Fleming, Emma Fleming 1, Emma Fleming 2, me, Claire Fleming. Also, the Flemings introduced me to Boxing Day, which is an amazing holiday!!!
+Photo 1 - :christmas_tree: Christmas with the Flemings. Grandpa Jim, Granny Rodina, Pauline Fleming, Emma's older brother David Fleming, Emma Fleming 1, Emma Fleming 2, me, Claire Fleming. Also, the Flemings introduced me to Boxing Day, which is an amazing holiday!!!
 <br><br>
 Photo 2 - Emma and Claire at David's wedding.
 <br><br>
