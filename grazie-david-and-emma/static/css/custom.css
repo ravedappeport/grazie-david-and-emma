@@ -5,12 +5,16 @@
     font-size: 1.5em;
     font-weight: 900;
     font-style: italic;
+    background-color: hsla(0, 100%, 100%, .3);
+    display: inline-block;
 }
 
 .welcome-end p {
     color: var(--dark-text-color);
     font-size: 1em;
     font-weight: bold;
+    background-color: hsla(0, 100%, 100%, .3);
+    display: inline-block;
 }
 
 .button.is-white.is-outlined {
@@ -20,12 +24,16 @@
     font-size: 1em;
     font-weight: bold;
     font-style: italic;
+    background-color: hsla(0, 100%, 100%, .3);
+    display: inline-block;
 }
 
 .hero.is-fullheight.welcome .welcome-title {
     color: var(--dark-text-color);
     font-style: italic;
     font-weight: 900;
+    background-color: hsla(0, 100%, 100%, .3);
+    display: inline-block;
 }
 
 .navbar-middle .welcome-title {

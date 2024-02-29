@@ -203,6 +203,7 @@ a img {
     justify-content: space-around;
     height: 100px;
     align-items: center;
+    color: white;
 }
 
 .prev,
@@ -372,6 +373,7 @@ section .column img {
     position: fixed;
     top: calc(100vh - 100px);
     left: 60px;
+    color: white;
 }
 
 .down-arrow:after {
